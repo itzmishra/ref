@@ -1,6 +1,4 @@
-Here's a clean and professional README tailored for your final year project reference paper repository:
 
----
 
 # 📚 Final Year Project Reference Papers
 
@@ -47,6 +45,3 @@ This folder includes key research papers and technical documents such as:
 
 Thanks to all the authors and researchers whose work has contributed to this repository. Their insights have been invaluable in shaping the scope and rigor of this project.
 
----
-
-Would you like me to format this into a Markdown file or tailor it for GitHub Pages?
